@@ -4,9 +4,9 @@ The aim is to get the network to learn how an XOR logic gate works. To do this, 
 to run the program you will have to compile to code in your terminal. The following lines is the commands needed to compile and run using gcc:
 
 
-$ gcc libann.c neuralnet.c ann.c -o ann
+ gcc libann.c neuralnet.c ann.c -o ann
 
-$ ./ann
+ ./ann
 
 
 feel free to edit the in.csv to change the data to anything you want.
